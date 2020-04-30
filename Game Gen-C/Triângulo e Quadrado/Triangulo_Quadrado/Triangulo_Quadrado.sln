@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{6F59F90D-59B6-4460-9892-0DD19E8B9824}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Lógica", "1 - Lógica", "{C888D4E3-A5A3-44E2-A1BE-B0277C7BCAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Metodos_Atributos", "Classes_Metodos_Atributos\Classes_Metodos_Atributos.csproj", "{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Classes, Métodos e Atributos", "2 - Classes, Métodos e Atributos", "{CD44D6C6-A141-4379-B5F2-173CF49250A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Visibilidade", "Heranca_Visibilidade\Heranca_Visibilidade.csproj", "{AC7444D3-112B-4D74-A7BC-68B64DE16252}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Herança e Visibilidade", "3 - Herança e Visibilidade", "{5919D12C-D001-4C0F-9BB1-6F797FF49091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento_Abstração", "Encapsulamento_Abstração\Encapsulamento_Abstração.csproj", "{78CB055B-FEB4-44D0-9215-EFBCD2038806}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Encapsulamento e Abstração", "4 - Encapsulamento e Abstração", "{8CF2A72E-9E62-4E79-813E-27C030EBD989}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Polimorfismo", "5 - Polimorfismo", "{A9EF836A-741D-4488-BA6C-894C87C17C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{258A5943-9EC2-4958-8767-5DCA574DC537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F59F90D-59B6-4460-9892-0DD19E8B9824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F59F90D-59B6-4460-9892-0DD19E8B9824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F59F90D-59B6-4460-9892-0DD19E8B9824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F59F90D-59B6-4460-9892-0DD19E8B9824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7444D3-112B-4D74-A7BC-68B64DE16252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7444D3-112B-4D74-A7BC-68B64DE16252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7444D3-112B-4D74-A7BC-68B64DE16252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7444D3-112B-4D74-A7BC-68B64DE16252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CB055B-FEB4-44D0-9215-EFBCD2038806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CB055B-FEB4-44D0-9215-EFBCD2038806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CB055B-FEB4-44D0-9215-EFBCD2038806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CB055B-FEB4-44D0-9215-EFBCD2038806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258A5943-9EC2-4958-8767-5DCA574DC537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258A5943-9EC2-4958-8767-5DCA574DC537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258A5943-9EC2-4958-8767-5DCA574DC537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258A5943-9EC2-4958-8767-5DCA574DC537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F59F90D-59B6-4460-9892-0DD19E8B9824} = {C888D4E3-A5A3-44E2-A1BE-B0277C7BCAAF}
+		{23EF4D8A-CF04-49F2-8565-F9DC4B270AD7} = {CD44D6C6-A141-4379-B5F2-173CF49250A4}
+		{AC7444D3-112B-4D74-A7BC-68B64DE16252} = {5919D12C-D001-4C0F-9BB1-6F797FF49091}
+		{78CB055B-FEB4-44D0-9215-EFBCD2038806} = {8CF2A72E-9E62-4E79-813E-27C030EBD989}
+		{258A5943-9EC2-4958-8767-5DCA574DC537} = {A9EF836A-741D-4488-BA6C-894C87C17C9D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2310FEE3-5BA3-4E81-96F0-41F67668F931}
+	EndGlobalSection
+EndGlobal

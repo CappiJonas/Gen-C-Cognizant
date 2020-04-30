@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{B03E7F35-58DC-42DB-8872-808D9EB7A7CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Lógica", "1 - Lógica", "{B408551D-85D6-45C6-9B60-5A350394B068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Metodos_Atributos", "Classes_Metodos_Atributos\Classes_Metodos_Atributos.csproj", "{46AED72A-AA90-4FF4-B8C4-D124B7373ACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Classes, Métodos e Atributos", "2 - Classes, Métodos e Atributos", "{39835A85-272F-4ECA-92DD-BF89C747A6C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Visibilidade", "Heranca_Visibilidade\Heranca_Visibilidade.csproj", "{BF316376-BEEC-4F6D-87CC-98C7B99C4304}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Herança e Visibilidade", "3 - Herança e Visibilidade", "{062FC155-B3C2-43D5-A179-6376CDFACEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento_Abstracao", "Encapsulamento_Abstracao\Encapsulamento_Abstracao.csproj", "{4DC90C0A-9595-40B9-84D6-52638203069D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Encapsualmento e Abstração", "4 - Encapsualmento e Abstração", "{9F8EF148-865F-458E-9BE9-8C380997EA3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Polimorfismo", "5 - Polimorfismo", "{785EE880-778B-4148-A007-EEF322268415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03E7F35-58DC-42DB-8872-808D9EB7A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03E7F35-58DC-42DB-8872-808D9EB7A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03E7F35-58DC-42DB-8872-808D9EB7A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03E7F35-58DC-42DB-8872-808D9EB7A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AED72A-AA90-4FF4-B8C4-D124B7373ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AED72A-AA90-4FF4-B8C4-D124B7373ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AED72A-AA90-4FF4-B8C4-D124B7373ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AED72A-AA90-4FF4-B8C4-D124B7373ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF316376-BEEC-4F6D-87CC-98C7B99C4304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF316376-BEEC-4F6D-87CC-98C7B99C4304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF316376-BEEC-4F6D-87CC-98C7B99C4304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF316376-BEEC-4F6D-87CC-98C7B99C4304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC90C0A-9595-40B9-84D6-52638203069D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC90C0A-9595-40B9-84D6-52638203069D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC90C0A-9595-40B9-84D6-52638203069D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC90C0A-9595-40B9-84D6-52638203069D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B03E7F35-58DC-42DB-8872-808D9EB7A7CA} = {B408551D-85D6-45C6-9B60-5A350394B068}
+		{46AED72A-AA90-4FF4-B8C4-D124B7373ACC} = {39835A85-272F-4ECA-92DD-BF89C747A6C9}
+		{BF316376-BEEC-4F6D-87CC-98C7B99C4304} = {062FC155-B3C2-43D5-A179-6376CDFACEEE}
+		{4DC90C0A-9595-40B9-84D6-52638203069D} = {9F8EF148-865F-458E-9BE9-8C380997EA3E}
+		{4F7E1658-C07F-45CA-A0BE-1A2EB3BD35AB} = {785EE880-778B-4148-A007-EEF322268415}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D0180D-BC77-41C8-89D2-3F31099A624B}
+	EndGlobalSection
+EndGlobal

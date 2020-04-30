@@ -1,0 +1,37 @@
+Exercício 1:
+Criar a tabela TB_IMOVEL com as colunas: Id_imovel, qtd_quartos, qtd_suites, qtd_vagas, num_m2, id_endereco
+
+Exercício 2:
+Transformar a coluna Id_imovel em chave primária 
+
+Exercício 3:
+Criar modelagem de acordo com a imagem abaixo:
+
+Exercício 4: transformar a coluna id_endereco da TB_imovel em uma chanve estrangeira da coluna cod_endereco da Tb_endereco
+
+Exercício 5: criar comando de insert e adicionar 5 registros em cada tabela(cuidado com as chaves primárias e estrangeiras)
+
+Exercício 6: 
+Criar comando de alteração(update) e altere o valor de 1 coluna de cada tabela
+
+Exercício 7, altere uma tabela de sua escolha, adicionando uma coluna de sua escolha
+
+Exercício 8:
+Criar uma consulta(select) que traga informação de TODAS as tabelas( faça isso usando inner, left ou right join)
+Exercício 9:
+Criar uma Função(function) e colocar a consulta feita no exercício 8 dentro, parâmetros à sua escolha
+
+Exercício 10:
+Criar uma procedure que chame a function criada no exercício 9
+Parâmetro à sua escolha
+
+Desafio final:
+Criar uma query, que tenha relacionamento da tb_estado com a TB_plataforma,
+ e eu só quero que essa consulta traga dados dessas 2 tabelas!
+
+Desafio final 2:
+Na consulta feita acima, adicionar comando lógico CASE WHEN com a seguinte lógica:
+ 
+Se o cod_plataforma for 1, no resultado da consulta a coluna cod_plataforma terá que vir “um” escrito 
+
+Se o id for maior que 1, trazer o número normal

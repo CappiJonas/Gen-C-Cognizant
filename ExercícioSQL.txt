@@ -1,0 +1,7 @@
+1 - Criar uma procedure que contemple as ações de inclusão, alteração, exclusão e pesquisa. (tabela de usuarios)
+Procedure devera receber parametros referentes a ação, valores para alteração, exclusao, alteração e pesquisa.
+
+2 - Criar função que retorne a quantidade de usuarios na tabela de usuario. 
+OBS: Utilizar a função COUNT do SQL. Pode consultar a documentação na microsoft.
+
+3- Criar uma view que retorne os dados da Tabela de Usuarios e Usuarios backup com inner join.
